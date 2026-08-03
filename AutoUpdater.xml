@@ -2,7 +2,7 @@
 <updates>
   <update>
     <version>1.27.0.0</version>
-    <url>https://github.com/Vroman-Cedric/KGenealogie/releases/download/v1.27.0/KGenealogieSetup.exe</url>
+    <url>https://github.com/Vroman-Cedric/KGenealogie/tree/main/KGenealogieSetup.exe</url>
     <mandatory>false</mandatory>
   </update>
 </updates>
