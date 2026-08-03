@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>2.27.01.00</version>
-  <url>https://github.com/Vroman-Cedric/KGenealogie/blob/main/KGenealogieSetup.exe</url>
-</item>
+<updates>
+  <update>
+    <version>1.27.0.0</version>
+    <url>https://github.com/Vroman-Cedric/KGenealogie/raw/main/KGenealogieSetup.exe</url>
+    <changelog>https://github.com/Vroman-Cedric/KGenealogie/releases</changelog>
+    <mandatory>false</mandatory>
+  </update>
+</updates>
