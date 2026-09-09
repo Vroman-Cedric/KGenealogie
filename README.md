@@ -4,6 +4,15 @@
 <img src="https://github.com/Vroman-Cedric/KGenealogie/blob/main/Logo_Arbre.png" width="128" height="128">
 </p>
 
+<p align="center">
+  <a href="https://github.com/Vroman-Cedric/KGenealogie/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Vroman-Cedric/KGenealogie?label=Version" alt="Version">
+  </a>
+<a href="https://github.com/Vroman-Cedric/KGenealogie/releases/latest">
+    <img src="https://img.shields.io/github/downloads/Vroman-Cedric/KGenealogie/latest/total?label=T%C3%A9l%C3%A9chargements" alt="Téléchargements">
+  </a>
+</p>
+
 ## 📦 Téléchargement
 
 <p align="center">
