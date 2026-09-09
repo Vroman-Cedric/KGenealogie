@@ -15,8 +15,8 @@
 				  	</ul>
 					</li>
 					<li>
-					  <a href="https://dotnet.microsoft.com/en-us/download/dotnet/9.0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-					.NET Desktop Runtime 9.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ou version ultérieure.</font></font>
+					  <a href="https://dotnet.microsoft.com/en-us/download/dotnet/10.0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					.NET Desktop Runtime 10.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ou version ultérieure.</font></font>
           </li>
 					<li>
 					  <a href="https://developer.microsoft.com/en-us/microsoft-edge/webview2/consumer/">
