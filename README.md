@@ -1,4 +1,4 @@
-<h1 align = " center " > KGenealogie - Logiciel de généalogie Gratuit </h1 > 
+<h1 align = " center " > KGénéalogie - Logiciel de généalogie gratuit </h1 > 
 
 <p align="center">
 <img src="https://github.com/Vroman-Cedric/KGenealogie/blob/main/Logo_Arbre.png" width="128" height="128">
@@ -11,6 +11,21 @@
 <a href="https://github.com/Vroman-Cedric/KGenealogie/releases/latest">
     <img src="https://img.shields.io/github/downloads/Vroman-Cedric/KGenealogie/latest/total?label=T%C3%A9l%C3%A9chargements" alt="Téléchargements">
   </a>
+  
+## 📦 Presentation
+
+Vue principale avec les statistique de votre généalogie :
+<img width="964" height="516" alt="Vue1" src="https://github.com/user-attachments/assets/7e62e919-34b8-419e-b7af-29360feda6d7" />
+
+Vue Fiche individu avec sa chronologie 
+<img width="954" height="516" alt="Vue2" src="https://github.com/user-attachments/assets/9cbae24b-8469-44ce-812f-ee0ec742aef2" />
+
+Vue Liste des individus/Evénements/Sources et lieux :
+<img width="954" height="516" alt="Vue3" src="https://github.com/user-attachments/assets/537f6bab-bed9-44fe-9849-957feaa52767" />
+
+enfin une representation en arborescence descendante :
+<img width="954" height="516" alt="Vue4" src="https://github.com/user-attachments/assets/77b3f53d-6224-4b4a-8abf-3aa21b2e4abb" />
+
 </p>
 
 ## 📦 Téléchargement
