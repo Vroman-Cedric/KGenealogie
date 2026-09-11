@@ -14,6 +14,9 @@
   
 ## 📦 Presentation
 
+Je vous présente K.Généalogie, un logiciel que j’ai développé
+pour gérer, consulter et explorer ma généalogie.
+
 Vue principale avec les statistique de votre généalogie :
 <img width="964" height="516" alt="Vue1" src="https://github.com/user-attachments/assets/7e62e919-34b8-419e-b7af-29360feda6d7" />
 
