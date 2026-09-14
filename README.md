@@ -53,6 +53,9 @@ enfin une representation en arborescence descendante :
 3. Suivre les instructions d'installation
 4. Lancer K.Généalogie
 
+N'étant pas un éditeur de logiciel reconnu, le logiciel n'a pas de certificat d'authentification, ce qui fait qu'au moment du téléchargement et/ou de l'installation de K.Généalogie, vous verrez apparaître des messages de mise en garde.
+Vous devrez alors confirmer que vous souhaitez bien conserver le téléchargement avant de permettre son installation.
+Ensuite, lors de l'installation vous risquez également de voir apparaître un message de mise en garde. Il vous faudra confirmer que vous souhaitez bien installer K.Généalogie.
 
 ## 🔄 Historique des Versions
 - **001.26.09** (Septembre 2026) : 1° Version disponible.
